@@ -11,6 +11,6 @@ I am generally passionate about anything-technology, but I spend the most time l
 
  **You can reach out to me on:** 
  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white )](https://linkedin.com/in/vaibhavpras) [![Outlook](https://img.shields.io/badge/-vaibhav.prasanna@outlook.com-blue?style=flat-square&logo=mail-dot-ru&logoColor=white )](vaibhav.prasanna@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white )](https://linkedin.com/in/vaibhavpras) [![Outlook](https://img.shields.io/badge/-vaibhav.prasanna@outlook.com-blue?style=flat-square&logo=mail-dot-ru&logoColor=white )](mailto:vaibhav.prasanna@outlook.com)
 
 I am currently looking for SWE or Web Development internship opportunities.
