@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm Vaibhav (pronounced vibe-huhv) and I'm a rising Junior at [The University Of Texas at Dallas](https://utdallas.edu) majoring in Computer Science.
+I'm Vaibhav (pronounced vibe-huh-v) and I'm a rising Junior at [The University Of Texas at Dallas](https://utdallas.edu) majoring in Computer Science.
 
 I am generally passionate about anything-technology, but I spend the most time learning about and being involved with UI/UX, Full-Stack Web and Software Development.
 
