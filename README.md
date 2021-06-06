@@ -2,7 +2,7 @@
 ### Hi there 👋
 I'm Vaibhav (pronounced vibe-huh-v) and I'm a rising Junior at [The University Of Texas at Dallas](https://utdallas.edu) majoring in Computer Science.
 
-I am generally passionate about anything-technology, but I spend the most time learning about and being involved with UI/UX, Full-Stack Web and Software Development and applications of AI.
+I am generally passionate about anything-technology, but I spend the most time learning about and being involved with UI/UX, Full-Stack Web and Software Development and Applications of AI.
 
  **My tools of trade include but are not limited to:** 
  
